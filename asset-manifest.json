@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/frontendCarRental/static/css/main.197c88f6.css",
+    "main.js": "/frontendCarRental/static/js/main.a963eda0.js",
+    "static/js/453.68693753.chunk.js": "/frontendCarRental/static/js/453.68693753.chunk.js",
+    "static/media/banner-bg.png": "/frontendCarRental/static/media/banner-bg.3de5d1485fe29bfe403b.png",
+    "index.html": "/frontendCarRental/index.html",
+    "main.197c88f6.css.map": "/frontendCarRental/static/css/main.197c88f6.css.map",
+    "main.a963eda0.js.map": "/frontendCarRental/static/js/main.a963eda0.js.map",
+    "453.68693753.chunk.js.map": "/frontendCarRental/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.197c88f6.css",
+    "static/js/main.a963eda0.js"
+  ]
+}

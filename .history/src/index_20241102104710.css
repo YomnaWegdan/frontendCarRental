@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* .navbar-nav .nav-link{
+  color: white !important;
+} */
+
+.hero-section {
+  background: url('./images/banner-bg.png') no-repeat center center;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding: 100px 0;
+}
+.main-color{
+  color:#FE5B29 !important
+}
+.bg-color{
+  background-color: #FE5B29 !important
+}
+
+.btn-main{
+  background-color: #FE5B29 !important;
+  color: white !important;
+  transition: all 0.5s;
+  border: 0;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
+
+}
+.btn-main:hover{
+  background-color: #fb5522 !important;
+  color: white !important;
+  /* border-radius: 20px; */
+}
+.hero-section h1 {
+  font-size: 65px !important;
+}
+
+.card-item , .contact, .login , .register {
+  background-color: white;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 8px ;
+  box-shadow: 0 2px 5px #FE5B29 !important;
+  transition: transform 0.2s ease-in-out;
+  border: #FE5B29 1px solid !important; 
+}
+ /* src/styles/CarList.css */
+.card {
+  transition: transform 0.2s ease-in-out;
+}
+
+.card-item:hover {
+  transform: scale(1.05);
+}
+
+.process-block {
+  margin-top: -54px !important;
+}
+
+.bullet {
+  z-index: 1;
+  top: 0;
+  background: #FE5B29;
+  width: 25px;
+  height: 25px;
+  border-radius: 100%;
+  transition: 0.3s ease;
+}
+
+
+.dashboard-layout .sidebar ul li a{
+  list-style: none;
+  text-decoration: none;
+  color: white !important;
+}
+
+footer {
+  background-color: #212529;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  width: 100%;
+}
