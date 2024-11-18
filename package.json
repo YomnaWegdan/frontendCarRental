@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://YomnaWegdan.github.io/frontendCarRental",
+  "homepage": "https://YomnaWegdan.github.io/",
   "private": true,
   "proxy": "https://backend-car-rentals.vercel.app",
   "dependencies": {
